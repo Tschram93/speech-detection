@@ -9,6 +9,10 @@ body {
     font-size: 20px;
 }
 
+h1 {
+    text-align: center;
+}
+
 .words {
     max-width: 500px;
     margin: 50px auto;
